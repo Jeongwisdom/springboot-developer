@@ -1,3 +1,4 @@
+/*
 package me.wisdom.springbootdeveloper.config;
 
 import static org.springframework.boot.autoconfigure.security.servlet.PathRequest.*;
@@ -60,3 +61,4 @@ public class WebSecurityConfig {
 		return new BCryptPasswordEncoder();
 	}
 }
+*/
